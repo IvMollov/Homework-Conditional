@@ -1,0 +1,5 @@
+D:\Projects\Conditional\Conditional statements\Problem No.8 Gross salary\bin\Debug\Problem No.8 Gross salary.exe.config
+D:\Projects\Conditional\Conditional statements\Problem No.8 Gross salary\bin\Debug\Problem No.8 Gross salary.exe
+D:\Projects\Conditional\Conditional statements\Problem No.8 Gross salary\bin\Debug\Problem No.8 Gross salary.pdb
+D:\Projects\Conditional\Conditional statements\Problem No.8 Gross salary\obj\Debug\Problem No.8 Gross salary.exe
+D:\Projects\Conditional\Conditional statements\Problem No.8 Gross salary\obj\Debug\Problem No.8 Gross salary.pdb

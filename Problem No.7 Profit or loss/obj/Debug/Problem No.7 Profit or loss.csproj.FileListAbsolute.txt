@@ -1,0 +1,5 @@
+D:\Projects\Conditional\Conditional statements\Problem No.7 Profit or loss\bin\Debug\Problem No.7 Profit or loss.exe.config
+D:\Projects\Conditional\Conditional statements\Problem No.7 Profit or loss\bin\Debug\Problem No.7 Profit or loss.exe
+D:\Projects\Conditional\Conditional statements\Problem No.7 Profit or loss\bin\Debug\Problem No.7 Profit or loss.pdb
+D:\Projects\Conditional\Conditional statements\Problem No.7 Profit or loss\obj\Debug\Problem No.7 Profit or loss.exe
+D:\Projects\Conditional\Conditional statements\Problem No.7 Profit or loss\obj\Debug\Problem No.7 Profit or loss.pdb

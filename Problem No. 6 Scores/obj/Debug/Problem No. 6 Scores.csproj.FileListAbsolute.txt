@@ -1,0 +1,5 @@
+D:\Projects\Conditional\Conditional statements\Problem No. 6 Scores\bin\Debug\Problem No. 6 Scores.exe.config
+D:\Projects\Conditional\Conditional statements\Problem No. 6 Scores\bin\Debug\Problem No. 6 Scores.exe
+D:\Projects\Conditional\Conditional statements\Problem No. 6 Scores\bin\Debug\Problem No. 6 Scores.pdb
+D:\Projects\Conditional\Conditional statements\Problem No. 6 Scores\obj\Debug\Problem No. 6 Scores.exe
+D:\Projects\Conditional\Conditional statements\Problem No. 6 Scores\obj\Debug\Problem No. 6 Scores.pdb

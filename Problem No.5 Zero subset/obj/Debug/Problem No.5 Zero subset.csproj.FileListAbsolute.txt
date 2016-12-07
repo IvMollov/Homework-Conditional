@@ -1,0 +1,5 @@
+D:\Projects\Conditional\Conditional statements\Problem No.5 Zero subset\bin\Debug\Problem No.5 Zero subset.exe.config
+D:\Projects\Conditional\Conditional statements\Problem No.5 Zero subset\bin\Debug\Problem No.5 Zero subset.exe
+D:\Projects\Conditional\Conditional statements\Problem No.5 Zero subset\bin\Debug\Problem No.5 Zero subset.pdb
+D:\Projects\Conditional\Conditional statements\Problem No.5 Zero subset\obj\Debug\Problem No.5 Zero subset.exe
+D:\Projects\Conditional\Conditional statements\Problem No.5 Zero subset\obj\Debug\Problem No.5 Zero subset.pdb
