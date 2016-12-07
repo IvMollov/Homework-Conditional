@@ -4,3 +4,6 @@ D:\Projects\Conditional\Conditional statements\Problem No.1 Real roots\bin\Debug
 D:\Projects\Conditional\Conditional statements\Problem No.1 Real roots\obj\Debug\Problem No.1 Real roots.csprojResolveAssemblyReference.cache
 D:\Projects\Conditional\Conditional statements\Problem No.1 Real roots\obj\Debug\Problem No.1 Real roots.exe
 D:\Projects\Conditional\Conditional statements\Problem No.1 Real roots\obj\Debug\Problem No.1 Real roots.pdb
+D:\Projects\Conditional\Conditional statements\Homework-Conditional\Problem No.1 Real roots\bin\Debug\Problem No.1 Real roots.exe.config
+D:\Projects\Conditional\Conditional statements\Homework-Conditional\Problem No.1 Real roots\obj\Debug\Problem No.1 Real roots.exe
+D:\Projects\Conditional\Conditional statements\Homework-Conditional\Problem No.1 Real roots\obj\Debug\Problem No.1 Real roots.pdb
